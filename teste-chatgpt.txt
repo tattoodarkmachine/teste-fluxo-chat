@@ -5,3 +5,6 @@ Data do teste: 23/09/2026.
 
 SEGUNDO TESTE: edição de arquivo existente realizada diretamente pelo ChatGPT.
 Fluxo validado: ChatGPT → GitHub → alteração → commit.
+
+TERCEIRO TESTE: esta linha existe somente na branch teste-chatgpt.
+A branch main permanece sem esta alteração até uma aprovação/merge.
