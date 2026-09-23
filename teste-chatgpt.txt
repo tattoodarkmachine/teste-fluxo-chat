@@ -2,3 +2,6 @@ Teste de integração ChatGPT ↔ GitHub concluído com sucesso.
 
 Arquivo criado diretamente pelo ChatGPT para validar permissão de gravação no repositório.
 Data do teste: 23/09/2026.
+
+SEGUNDO TESTE: edição de arquivo existente realizada diretamente pelo ChatGPT.
+Fluxo validado: ChatGPT → GitHub → alteração → commit.
